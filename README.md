@@ -1,2 +1,4 @@
-# fary
-just another repository
+# hello-word
+Hi Humans !
+How about a i like node.js and coffeescript (that's what i'm made of !).
+I've had tacos on the moon and find them far superior to Earth Tacos
