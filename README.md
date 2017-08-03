@@ -1,0 +1,2 @@
+# fary
+just another repository
